@@ -1,0 +1,8 @@
+C:\Repository\Modul-8\8-1\bin\Debug\8-1.exe.config
+C:\Repository\Modul-8\8-1\bin\Debug\8-1.exe
+C:\Repository\Modul-8\8-1\bin\Debug\8-1.pdb
+C:\Repository\Modul-8\8-1\obj\Debug\8-1.csproj.AssemblyReference.cache
+C:\Repository\Modul-8\8-1\obj\Debug\8-1.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Modul-8\8-1\obj\Debug\8-1.csproj.CoreCompileInputs.cache
+C:\Repository\Modul-8\8-1\obj\Debug\8-1.exe
+C:\Repository\Modul-8\8-1\obj\Debug\8-1.pdb
