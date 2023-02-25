@@ -7,7 +7,7 @@
     <ProjectGuid>{4C253951-D0A5-43A9-BF9D-DB1154EB580B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_8_2</RootNamespace>
-    <AssemblyName>_8_2</AssemblyName>
+    <AssemblyName>8-2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
