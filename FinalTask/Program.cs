@@ -21,7 +21,7 @@ namespace FinalTask
             {
                 dirInfo.Create();
             }
-            dirInfo.CreateSubdirectory(path);
+           
 
             BinaryFormatter formatter = new BinaryFormatter();
             Student[] students;
@@ -39,8 +39,9 @@ namespace FinalTask
                 {
                     sw.WriteLine($"{student.Name}, {student.DateOfBirth}");
                 }
-                Console.ReadLine();
+                
             }
+            Console.ReadLine();
         }
     }
 }
