@@ -1,0 +1,8 @@
+C:\Repository\Modul-8\FinalTask\bin\Debug\FinalTask.exe.config
+C:\Repository\Modul-8\FinalTask\bin\Debug\FinalTask.exe
+C:\Repository\Modul-8\FinalTask\bin\Debug\FinalTask.pdb
+C:\Repository\Modul-8\FinalTask\obj\Debug\FinalTask.csproj.AssemblyReference.cache
+C:\Repository\Modul-8\FinalTask\obj\Debug\FinalTask.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Modul-8\FinalTask\obj\Debug\FinalTask.csproj.CoreCompileInputs.cache
+C:\Repository\Modul-8\FinalTask\obj\Debug\FinalTask.exe
+C:\Repository\Modul-8\FinalTask\obj\Debug\FinalTask.pdb
